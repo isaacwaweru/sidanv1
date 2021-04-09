@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "30297630682",
+    "project_id": "sidan-7e121",
+    "storage_bucket": "sidan-7e121.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30297630682:android:19ce337f9dc72c2939c2e3",
+        "android_client_info": {
+          "package_name": "com.example.dinas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30297630682-uppmg1v1vbqliorab7jav74bt5udqlnd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dinas",
+            "certificate_hash": "955767bbc2fb170df39653029e494f6bd2fd6701"
+          }
+        },
+        {
+          "client_id": "30297630682-i38aurdof4ulh0fhes9fou2hqbkpia3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH4FrgjqOR68RHVS6hfHVet7XpQrhWwcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30297630682-i38aurdof4ulh0fhes9fou2hqbkpia3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
